@@ -23,3 +23,6 @@ else
        let BMI=mass/(height*height)
        console.log(BMI)
 }
+
+
+// chek it out it should working fine or not 
